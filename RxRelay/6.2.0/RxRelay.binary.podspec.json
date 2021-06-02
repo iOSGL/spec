@@ -1,0 +1,28 @@
+{
+  "name": "RxRelay",
+  "version": "6.2.0",
+  "summary": "Relays for RxSwift - PublishRelay, BehaviorRelay and ReplayRelay",
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」\n          Relays for RxSwift - PublishRelay, BehaviorRelay and ReplayRelay\n\n* PublishRelay\n* BehaviorRelay\n* ReplayRelay\n* Binding overloads",
+  "homepage": "https://github.com/ReactiveX/RxSwift",
+  "license": "MIT",
+  "authors": {
+    "Krunoslav Zaher": "krunoslav.zaher@gmail.com"
+  },
+  "source": {
+    "http": "http://localhost:8080/frameworks/RxRelay/6.2.0/zip",
+    "type": "zip"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "RxRelay/**/*.{swift,h,m}",
+  "dependencies": {
+    "RxSwift": [
+      "6.2.0"
+    ]
+  },
+  "swift_versions": "5.1",
+  "vendored_frameworks": "RxRelay.framework",
+  "swift_version": "5.1"
+}
