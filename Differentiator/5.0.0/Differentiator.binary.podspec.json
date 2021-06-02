@@ -1,0 +1,23 @@
+{
+  "name": "Differentiator",
+  "version": "5.0.0",
+  "summary": "Diff algorithm for UITableView and UICollectionView.",
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」\n          Diff algorithm for UITableView and UICollectionView.\nRxDataSources is powered by Differentiator.",
+  "homepage": "https://github.com/RxSwiftCommunity/RxDataSources",
+  "license": "MIT",
+  "authors": {
+    "Krunoslav Zaher": "krunoslav.zaher@gmail.com"
+  },
+  "source": {
+    "http": "http://localhost:8080/frameworks/Differentiator/5.0.0/zip",
+    "type": "zip"
+  },
+  "requires_arc": true,
+  "swift_versions": "5.0",
+  "source_files": "Sources/Differentiator/**/*.swift",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "vendored_frameworks": "Differentiator.framework",
+  "swift_version": "5.0"
+}
